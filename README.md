@@ -4,7 +4,7 @@ I'm **Nauman Haider**, a passionate **MERN Stack Web Developer**. I love buildin
 
 ## 🔎 About Me
 
-- 🔭 I'm currently working on **Tubbz Yourself** – a customizable avatar creation platform with AI features
+- 🔭 I'm currently working on **Nexora POS** – a point of sale system as SaaS software.
 - 🌱 I'm currently learning **AI/ML integration with web applications**, Next.js, and advanced backend optimization
 - 👯 I'm looking to collaborate on **open-source projects** and **AI-powered web applications**
 - 🤔 I'm looking for help with **AI model deployment in production** and **scalable microservices architecture**
@@ -16,9 +16,16 @@ I'm **Nauman Haider**, a passionate **MERN Stack Web Developer**. I love buildin
 
 ## 📌 My Pinned Projects
 
+### 🏪 **Nexora POS** — Point of Sale System for Retail Businesses
+- **Status**: Completed / Deployed
+- **Tech Stack**: MERN Stack, Redux Toolkit, JWT Authentication, Chart.js
+- **Features**: Inventory management, sales tracking, invoice generation, customer management, real-time analytics dashboard
+- **Learning Focus**: Building scalable POS systems, real-time data synchronization, role-based access control
+- **Repo**: [Nexora POS GitHub](https://github.com/howarang5s/nexora-pos)
+
 ### 🤖 **Tubbz Yourself** — AI-Powered Avatar Creation Platform
 - **Status**: Actively developing
-- **Tech Stack**: MERN Stack, TensorFlow.js, OpenAI API, Cloudinary
+- **Tech Stack**: MERN Stack, Gemini AI, Cloudinary
 - **Features**: AI-generated avatars, real-time customization, social sharing, premium AI filters
 - **Learning Focus**: Integrating AI models into full-stack applications, real-time AI processing
 - **Repo**: [Tubbz Yourself GitHub](https://github.com/rafeh398/tubzz)
@@ -65,12 +72,12 @@ Real-time chat application using MERN stack with Socket.io for instant messaging
 
 ---
 
-## 🚀 What I'm Learning Through Tubbz Yourself
+## 🚀 What I'm Learning Through My Projects
 
-Working on **Tubbz Yourself** has been an incredible learning journey where I'm exploring:
+Working on **Tubbz Yourself** and **Nexora POS** has been an incredible learning journey where I'm exploring:
 - **AI Integration**: How to incorporate machine learning models into web applications
 - **Real-time AI Processing**: Implementing AI features that work in real-time without compromising performance
-- **Scalable AI Architecture**: Building systems that can handle multiple AI model inferences simultaneously
+- **Scalable Architecture**: Building systems that can handle multiple users and data synchronization
 - **Ethical AI Design**: Creating AI features that are transparent and user-friendly
 
 ---
@@ -86,3 +93,4 @@ I'm always open to discussing web development, AI integration in applications, o
 **Email**: naumanbhatti053@gmail.com  
 **LinkedIn**: [Nauman Haider](https://www.linkedin.com/in/nauman-haider-97872a228/)  
 **GitHub**: [@howarang5s](https://github.com/howarang5s)
+
