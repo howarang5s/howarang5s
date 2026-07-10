@@ -17,14 +17,14 @@ I'm **Nauman Haider**, a passionate **MERN Stack Web Developer**. I love buildin
 ## 📌 My Pinned Projects
 
 ### 🏪 **Nexora POS** — Point of Sale System for Retail Businesses
-- **Status**: Completed / Deployed
+- **Status**: Activly Working
 - **Tech Stack**: MERN Stack, Redux Toolkit, JWT Authentication, Chart.js
 - **Features**: Inventory management, sales tracking, invoice generation, customer management, real-time analytics dashboard
 - **Learning Focus**: Building scalable POS systems, real-time data synchronization, role-based access control
 - **Repo**: [Nexora POS GitHub](https://github.com/howarang5s/nexora-pos)
 
 ### 🤖 **Tubbz Yourself** — AI-Powered Avatar Creation Platform
-- **Status**: Actively developing
+- **Status**: Completely and Developing
 - **Tech Stack**: MERN Stack, Gemini AI, Cloudinary
 - **Features**: AI-generated avatars, real-time customization, social sharing, premium AI filters
 - **Learning Focus**: Integrating AI models into full-stack applications, real-time AI processing
