@@ -4,7 +4,7 @@ I'm **Nauman Haider**, a passionate **MERN Stack Web Developer**. I love buildin
 
 ## 🔎 About Me
 
-- 🔭 I'm currently working on **Nexora POS** – a point of sale system as SaaS software.
+- 🔭 I'm currently working on **Three Star** – a B2B platfoprm.
 - 🌱 I'm currently learning **AI/ML integration with web applications**, Next.js, and advanced backend optimization
 - 👯 I'm looking to collaborate on **open-source projects** and **AI-powered web applications**
 - 🤔 I'm looking for help with **AI model deployment in production** and **scalable microservices architecture**
@@ -16,12 +16,22 @@ I'm **Nauman Haider**, a passionate **MERN Stack Web Developer**. I love buildin
 
 ## 📌 My Pinned Projects
 
+### 🏪 **Three Star** — B2B Web Application
+- **Status**: Activly Working
+- **Tech Stack**: MERN Stack, Nginx, Certbot SSL, AWS EC2, MongoDB Atlas
+- **Features**: B2B workflow management, secure authentication, automated server deployment, and database synchronization
+- **Learning Focus**: Production cloud architecture, reverse proxy setup, SSL management, and enterprise-grade deployment
+- **Repo**: [Three Star](https://github.com/howarang5s/three-star)
+- **Live**: https://3star.3starcleaning.ca
+
+
 ### 🏪 **Nexora POS** — Point of Sale System for Retail Businesses
 - **Status**: Activly Working
 - **Tech Stack**: MERN Stack, Redux Toolkit, JWT Authentication, Chart.js
 - **Features**: Inventory management, sales tracking, invoice generation, customer management, real-time analytics dashboard
 - **Learning Focus**: Building scalable POS systems, real-time data synchronization, role-based access control
 - **Repo**: [Nexora POS GitHub](https://github.com/howarang5s/nexora-pos)
+- **Live**: https://pos.nexorapos.co.uk
 
 ### 🤖 **Tubbz Yourself** — AI-Powered Avatar Creation Platform
 - **Status**: Completely and Developing
@@ -29,6 +39,7 @@ I'm **Nauman Haider**, a passionate **MERN Stack Web Developer**. I love buildin
 - **Features**: AI-generated avatars, real-time customization, social sharing, premium AI filters
 - **Learning Focus**: Integrating AI models into full-stack applications, real-time AI processing
 - **Repo**: [Tubbz Yourself GitHub](https://github.com/rafeh398/tubzz)
+- **Live**: https://tubbzyourself.com/attract
 
 ### 💰 **Loan Application System**
 Full-stack loan management system with authentication, admin analytics, and loan processing.
