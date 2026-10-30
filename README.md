@@ -1,107 +1,24 @@
-# 👋 Hi there!
-
-I'm **Nauman Haider**, a passionate **MERN Stack Web Developer**. I love building impactful web applications and exploring modern JavaScript frameworks. I also enjoy contributing to open-source projects and solving real-world problems with technology.
-
-## 🔎 About Me
-
-- 🔭 I'm currently working on **Three Star** – a B2B platfoprm.
-- 🌱 I'm currently learning **AI/ML integration with web applications**, Next.js, and advanced backend optimization
-- 👯 I'm looking to collaborate on **open-source projects** and **AI-powered web applications**
-- 🤔 I'm looking for help with **AI model deployment in production** and **scalable microservices architecture**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, AI integration in web apps**, and **REST APIs**
-- 📫 How to reach me: [naumanbhatti053@gmail.com](mailto:naumanbhatti053@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nauman-haider-97872a228/)
-- ⚡ Fun fact: I enjoy turning complex UI designs into clean and reusable components, and I'm now exploring how AI can enhance user experiences!
-
----
-
-## 📌 My Pinned Projects
-
-### 🏪 **Three Star** — B2B Web Application
-- **Status**: Activly Working
-- **Tech Stack**: MERN Stack, Nginx, Certbot SSL, AWS EC2, MongoDB Atlas
-- **Features**: B2B workflow management, secure authentication, automated server deployment, and database synchronization
-- **Learning Focus**: Production cloud architecture, reverse proxy setup, SSL management, and enterprise-grade deployment
-- **Repo**: [Three Star](https://github.com/howarang5s/three-star)
-- **Live**: https://3star.3starcleaning.ca
+# 💫 About Me:
+🔭 I'm currently working on Three Star – a B2B platfoprm.<br>🌱 I'm currently learning AI/ML integration with web applications, Next.js, and advanced backend optimization<br>👯 I'm looking to collaborate on open-source projects and AI-powered web applications<br>🤔 I'm looking for help with AI model deployment in production and scalable microservices architecture<br>💬 Ask me about React, Node.js, Express, MongoDB, AI integration in web apps, and REST APIs<br>📫 How to reach me: naumanbhatti053@gmail.com or connect on LinkedIn<br>⚡ Fun fact: I enjoy turning complex UI designs into clean and reusable components, and I'm now exploring how AI can enhance user experiences!<br>
 
 
-### 🏪 **Nexora POS** — Point of Sale System for Retail Businesses
-- **Status**: Activly Working
-- **Tech Stack**: MERN Stack, Redux Toolkit, JWT Authentication, Chart.js
-- **Features**: Inventory management, sales tracking, invoice generation, customer management, real-time analytics dashboard
-- **Learning Focus**: Building scalable POS systems, real-time data synchronization, role-based access control
-- **Repo**: [Nexora POS GitHub](https://github.com/howarang5s/nexora-pos)
-- **Live**: https://pos.nexorapos.co.uk
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nauman Haider) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naumanhaider1999) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nauman Haider) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@naumanhaider894) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naumanbhatti053@gmail.com) 
 
-### 🤖 **Tubbz Yourself** — AI-Powered Avatar Creation Platform
-- **Status**: Completely and Developing
-- **Tech Stack**: MERN Stack, Gemini AI, Cloudinary
-- **Features**: AI-generated avatars, real-time customization, social sharing, premium AI filters
-- **Learning Focus**: Integrating AI models into full-stack applications, real-time AI processing
-- **Repo**: [Tubbz Yourself GitHub](https://github.com/rafeh398/tubzz)
-- **Live**: https://tubbzyourself.com/attract
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=howarang5s&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=howarang5s&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=howarang5s&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 💰 **Loan Application System**
-Full-stack loan management system with authentication, admin analytics, and loan processing.
-- **Tech**: MERN Stack, JWT, Chart.js, AWS EC2
-- **Repo**: [https://github.com/MateenShahbaz/Laon-App-.git](https://github.com/MateenShahbaz/Laon-App-.git)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 📊 **Messy Report System**
-Full-stack complaint management with officer rating system and integrated e-commerce features.
-- **Tech**: MERN Stack, Stripe, Socket.io
-- **Repo**: [https://github.com/howarang5s/MessyReport](https://github.com/howarang5s/MessyReport)
-
-### 🛡️ **Cyberbullying Detection**
-AI research project detecting cyberbullying in image-text combinations using computer vision and NLP.
-- **Tech**: Python, TensorFlow, ResNetV2, BERT
-- **Repo**: [https://github.com/weirdrebel/CyberLens.git](https://github.com/weirdrebel/CyberLens.git)
-
-### 🖼️ **Image API**
-Image processing API with AI-based search capabilities using embeddings.
-- **Tech**: Python, CloudSQL, Vertex AI, Google Cloud Run
-- **Repo**: [https://github.com/howarang5s/Project_Image_APi.git](https://github.com/howarang5s/Project_Image_APi.git)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=howarang5s&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=howarang5s&icon=10&color=9)](https://visitcount.itsvg.in)
 
-## 🧠 Some Other Repositories I'm Proud Of
-
-### 🖥️ **Student Portal**
-Student portal built with Angular, Framer Motion, and Node.js during internship at Optima Geeks.
-- **Repo**: [https://github.com/howarang5s/Student_Portal.git](https://github.com/howarang5s/Student_Portal.git)
-
-### 🛒 **Ecommerce Frontend**
-E-commerce platform frontend with React.js featuring product catalog, cart, and checkout.
-- **Repo**: [https://github.com/howarang5s/Ecommerce_React.git](https://github.com/howarang5s/Ecommerce_React.git)
-
-### ❓ **Quiz Platform**
-Interactive quiz platform with React.js for creating and taking quizzes.
-- **Repo**: [https://github.com/howarang5s/Quiz-Platform.git](https://github.com/howarang5s/Quiz-Platform.git)
-
-### 💬 **Chat-App**
-Real-time chat application using MERN stack with Socket.io for instant messaging.
-- **Repo**: [https://github.com/howarang5s/Chat-app.git](https://github.com/howarang5s/Chat-app.git)
-
----
-
-## 🚀 What I'm Learning Through My Projects
-
-Working on **Tubbz Yourself** and **Nexora POS** has been an incredible learning journey where I'm exploring:
-- **AI Integration**: How to incorporate machine learning models into web applications
-- **Real-time AI Processing**: Implementing AI features that work in real-time without compromising performance
-- **Scalable Architecture**: Building systems that can handle multiple users and data synchronization
-- **Ethical AI Design**: Creating AI features that are transparent and user-friendly
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to discussing web development, AI integration in applications, or potential collaborations. Feel free to reach out if you'd like to:
-- Collaborate on an interesting project
-- Discuss AI/web development concepts
-- Share feedback on any of my projects
-- Just say hello! 👋
-
-**Email**: naumanbhatti053@gmail.com  
-**LinkedIn**: [Nauman Haider](https://www.linkedin.com/in/nauman-haider-97872a228/)  
-**GitHub**: [@howarang5s](https://github.com/howarang5s)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
